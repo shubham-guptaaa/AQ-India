@@ -122,9 +122,9 @@ python predict.py   # ML Pipeline
 
 | Model | RMSE | R² Score | Training Time |
 |-------|------|----------|---------------|
-| Random Forest | 8.42 | 0.94 | 45 min |
-| XGBoost | 8.15 | 0.95 | 52 min |
-| LSTM | 7.89 | 0.96 | 2.5 hr |
+| Random Forest | 0.58 | 0.94 | 45 min |
+| XGBoost | 8.15 | 0.61 | 52 min |
+| LSTM | 7.89 | 0.69 | 2.5 hr |
 
 ## 📍 Coverage
 
