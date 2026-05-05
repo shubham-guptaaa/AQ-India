@@ -231,11 +231,6 @@ AQI-Prediction-System/
 ### Contributing
 Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 🏆 Awards & Recognition
-
-- **Winner**: Bharatiya Antariksh Hackathon 2025
-- **Innovation Award**: ISRO Space Technology Incubation
-- **Featured**: NITI Aayog AI Case Studies
 
 ## 📈 Performance Metrics
 
