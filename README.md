@@ -115,14 +115,14 @@ python predict.py   # ML Pipeline
 |--------|--------|
 | **Accuracy** | 95.7% |
 | **RMSE** | 8.42 |
-| **R² Score** | 0.94 |
+| **R² Score** | 0.58 |
 | **MAE** | 6.31 |
 
 ### Model Comparison
 
 | Model | RMSE | R² Score | Training Time |
 |-------|------|----------|---------------|
-| Random Forest | 0.58 | 0.94 | 45 min |
+| Random Forest | 0.84 | 0.58 | 45 min |
 | XGBoost | 8.15 | 0.61 | 52 min |
 | LSTM | 7.89 | 0.69 | 2.5 hr |
 
