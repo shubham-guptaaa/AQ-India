@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Air Quality Prediction System
+# 🌍 AI-Powered Air Quality Prediction System - AQ-India
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org)
