@@ -67,7 +67,7 @@ graph TD
     J --> M[Policy Simulator]
 ```
 
-## 🚀 Quick Start
+## 🚀 Quick Guide
 
 ### Prerequisites
 - Python 3.8+
